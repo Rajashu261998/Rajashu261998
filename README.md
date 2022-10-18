@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p>A highly motivated individual driven Computer Science Engineering student and currently
+<p style ="font-size: 20px">A highly motivated individual driven Computer Science Engineering student and currently
 learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, HTML, CSS.Passionate about problem-solving, Data Structure and Algorithms and Social Responsibilities.</p>
 <img align="right" alt="Coding" width+"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  >
 
