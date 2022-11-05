@@ -36,3 +36,4 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajashu261998&show_icons=true&locale=en" alt="rajashu261998" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=rajashu261998&theme=dark" alt="rajashu261998" /></p>
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajashu261998&bg_color=0D1117&color=79fe96&line=79fe96&point=FFFFFF&hide_border=true" /></p>
