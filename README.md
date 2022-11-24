@@ -11,13 +11,13 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://idyllic-heliotrope-715672.netlify.app/](https://idyllic-heliotrope-715672.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://idyllic-heliotrope-715672.netlify.app/](https://rajashu261998.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **ashutoshraj0420@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19SiT_zGxfKwisJ4fRH8S5LW-ErTCTZTE/view?usp=sharing](https://drive.google.com/file/d/19SiT_zGxfKwisJ4fRH8S5LW-ErTCTZTE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yhzIlngomfzZ85UweMeiBjHzRm9T9Wch/view?usp=sharing](https://drive.google.com/file/d/1yhzIlngomfzZ85UweMeiBjHzRm9T9Wch/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
