@@ -11,7 +11,7 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://idyllic-heliotrope-715672.netlify.app/](https://rajashu261998.github.io/)
+- 👨‍💻 All of my projects are available at [https://rajashu261998.github.io/](https://rajashu261998.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
