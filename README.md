@@ -65,9 +65,10 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 <br>
 <h2><i>GitHub Stats</i></h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashu261998&layout=compact&langs_count=5&theme=dark" alt="rajashu261998" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajashu261998&show_icons=true&locale=en" alt="rajashu261998" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rajashu261998&theme=dark" alt="rajashu261998" /></p>
-<!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=rajashu261998&bg_color=0D1117&color=79fe96&line=79fe96&point=FFFFFF&hide_border=true" /></p> -->
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajashu261998&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashhu261998&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
+ <br>
+ <br>
+<img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Rajashu261998&theme=dark" alt="">
+</p>
