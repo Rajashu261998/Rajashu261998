@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Raj</h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
-<p style ="font-size: 20px">A highly motivated individual driven Computer Science Engineering student and currently
-learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, HTML, CSS.Passionate about problem-solving, Data Structure and Algorithms and Social Responsibilities.</p>
-<img align="right" alt="Coding" width+"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"  >
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajashu261998&label=Profile%20views&color=0e75b6&style=flat" alt="rajashu261998" /> </p>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Ankita Thakur</h1>
+<h3 align="center"> Aspiring Full Stack Web Developer (Full-Time)</h3>
+<p align="center">
+-   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
+-   🤝 Any type of Project Proposal is invited. <br/>
+-   ⚡ For fun, I socialize on Discord. <br/>
+-    Half way to Full Stack MERN Dev. <br/>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajashu261998" alt="rajashu261998" /></a> </p>
 
