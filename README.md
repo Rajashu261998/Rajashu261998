@@ -67,7 +67,7 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rajashu261998&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=radical" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashhu261998&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajashu261998&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=radical" alt="m-sehrawat" height="139" />
  <br>
  <br>
 <img width="95%" height="200" style="margin: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Rajashu261998&theme=dark" alt="">
