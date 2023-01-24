@@ -21,7 +21,7 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashu1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rajashu261998/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashu1997/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashu1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashu1997/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ashutoshraj0420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ashutoshraj0420" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rajashutosh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rajashutosh/" height="30" width="40" /></a>
 </p>
