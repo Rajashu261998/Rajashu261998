@@ -57,6 +57,14 @@ learning Full Stack Web Development. Have knowledge of React/Redux, JavaScript, 
 </p>
 <br>
 
+<br>
+<!-- <h3 align="center">
+<img data-target="animated-image.replacedImage" alt="Coding" class="AnimatedImagePlayer-animatedImage" src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" style="width: 300px; display: inline; opacity: 1;">
+</h3> -->
+<br>
+<br>
+<h2><i>GitHub Stats</i></h2>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajashu261998&layout=compact&langs_count=5&theme=dark" alt="rajashu261998" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajashu261998&show_icons=true&locale=en" alt="rajashu261998" /></p>
