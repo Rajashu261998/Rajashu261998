@@ -1,15 +1,16 @@
-<!-- ![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif) -->
+<!-- <img width="100" height="100"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > -->
+<h1 align="center">Hi , I'm Sagar Wankhade  <img width="60" height="60"  align="center" src="https://media.tenor.com/fFWcjOYqpWMAAAAM/jasgagger-jason.gif" > </h1>
 
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I am Ashutosh Raj</h1>
-<h3 align="center"> Aspiring Full Stack Web Developer (Full-Time)</h3>
 <p align="center">
--   🌱 <b><I>I CODE, CONNECT & CREATE</I></b> <br/>
--   🤝 Any type of Project Proposal is invited. <br/>
--   ⚡ For fun, I socialize on Discord. <br/>
--    Half way to Full Stack MERN Dev. <br/>
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;fullstack+developer" > 
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajashu261998" alt="rajashu261998" /></a> </p>
+<img src="https://blog.postman.com/wp-content/uploads/2019/01/platform.png">
+
+<h3 align="center">A passionate Developer, Programmer & Tech-savvy person from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif">
+
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
